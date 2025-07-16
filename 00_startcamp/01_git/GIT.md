@@ -35,5 +35,4 @@
         - `git config --global user.email "e-mail"`
         - `git config --global user.name "name"`
         - `code ~ /. gitconfig` : 정보 수정
-    - `git commit -m "name"`
     - `git log` : log 보기 (Author, Date)
