@@ -36,3 +36,10 @@
         - `git config --global user.name "name"`
         - `code ~ /. gitconfig` : 정보 수정
     - `git log` : log 보기 (Author, Date)
+
+# 원격 저장소
+- `git remote add origin remote_repo_url`
+    - 로컬 저장소에 원격 저장소 추가
+- `git push -u origin master`
+    - push
+---
